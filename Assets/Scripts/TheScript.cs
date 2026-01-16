@@ -2,6 +2,10 @@ using UnityEngine;
 
 public class TheScript : MonoBehaviour
 {
+    
+    [SerializeField] private float cerealBol;
+
+    [SerializeField] public bool boule = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
