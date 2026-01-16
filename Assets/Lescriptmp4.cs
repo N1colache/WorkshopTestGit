@@ -2,6 +2,11 @@ using UnityEngine;
 
 public class Lescriptmp4 : MonoBehaviour
 {
+    public bool orWhat;
+    private int integrityValue;
+
+    public float numberOfOrWhats;
+
     string _aAfficher;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -17,3 +22,4 @@ public class Lescriptmp4 : MonoBehaviour
         Debug.Log(Time.time);
     }
 }
+
