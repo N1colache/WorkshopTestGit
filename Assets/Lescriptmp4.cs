@@ -2,9 +2,12 @@ using UnityEngine;
 
 public class Lescriptmp4 : MonoBehaviour
 {
+    string _aAfficher;
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        Debug.Log(_aAfficher);
         
     }
 
