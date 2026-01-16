@@ -11,6 +11,6 @@ public class Lescriptmp4 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log(Time.time);
     }
 }
