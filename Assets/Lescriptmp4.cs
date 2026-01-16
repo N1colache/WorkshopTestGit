@@ -2,15 +2,10 @@ using UnityEngine;
 
 public class Lescriptmp4 : MonoBehaviour
 {
-    public bool orWhat;
-    private int integrityValue;
-
-    public float numberOfOrWhats;
-
     string _aAfficher;
     
     public bool orWhat;
-    private int integrityValue;
+    private int _integrityValue;
 
     public float numberOfOrWhats;
 
